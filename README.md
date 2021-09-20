@@ -1,3 +1,3 @@
 # Siddharth-AlgorithmsLabSolution
 
-Algorithms Lab Session - 19th Sept 2021
+Great Learning - Algorithms Lab Session - 29th August 2021
